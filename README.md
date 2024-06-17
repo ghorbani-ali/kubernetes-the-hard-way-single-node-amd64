@@ -1,4 +1,4 @@
-# Kubernetes The Hard Way
+# Kubernetes The Hard Way - Single Node
 
 This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster.
 
@@ -26,7 +26,7 @@ Component versions:
 
 ## Labs
 
-This tutorial requires four (4) ARM64 based virtual or physical machines connected to the same network. While ARM64 based machines are used for the tutorial, the lessons learned can be applied to other platforms.
+This tutorial requires one (1) AMD64 based virtual or physical machines connected to the same network. While ARM64 based machines are used for the tutorial, the lessons learned can be applied to other platforms.
 
 * [Prerequisites](docs/01-prerequisites.md)
 * [Setting up the Jumpbox](docs/02-jumpbox.md)
