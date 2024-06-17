@@ -26,7 +26,7 @@ Component versions:
 
 ## Labs
 
-This tutorial requires one (1) AMD64 based virtual or physical machines connected to the same network. While ARM64 based machines are used for the tutorial, the lessons learned can be applied to other platforms.
+This tutorial requires one (1) AMD64 based virtual or physical machine. While AMD64 based machine are used for the tutorial, the lessons learned can be applied to other platforms.
 
 * [Prerequisites](docs/01-prerequisites.md)
 * [Setting up the Jumpbox](docs/02-jumpbox.md)
